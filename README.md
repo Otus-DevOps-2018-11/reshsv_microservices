@@ -1,3 +1,5 @@
 # reshsv_microservices
 reshsv microservices repository
-Add intergration with Travis CI
+
+LAB #14 Введение в Docker.
+Выполнены все основные ДЗ.
